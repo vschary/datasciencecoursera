@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511131070811.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1B0DF38F",
+    "lastKnownWriteTime" : 1511131142,
+    "last_content_update" : 1511131142995,
+    "path" : "~/DataScientist/SV_Project/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
+    "properties" : {
+        "cursorPosition" : "0,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
